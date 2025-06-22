@@ -5,9 +5,11 @@ Mongodb
 Laravel
 MySQL
 
-Steps to install
-npm install 
-composer install
+Steps to install -
+
+`npm install`
+`composer install
+`
 
 Steps to run -
 `cd frontend`
